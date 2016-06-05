@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="index.aspx" title="HOME"  description="">
+    <siteMapNode url="make.aspx" title="Search by Make"  description="" />
+    <siteMapNode url="addDelete.aspx" title="Add and Delete from DB"  description="" />
+  </siteMapNode>
+</siteMap>
